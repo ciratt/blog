@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 log/**/*
 tmp/**/*
@@ -6,3 +7,23 @@ vendor/gems/*
 !vendor/gems/cache/
 .sass-cache/*
 db/*.db
+=======
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+>>>>>>> 6da6b5edbd94a8810648bcd60379c119405e2374
